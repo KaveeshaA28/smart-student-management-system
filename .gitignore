@@ -11,7 +11,6 @@ backend/*.war
 # =============================================
 .idea/
 *.iml
-.vscode/
 .classpath
 .project
 .settings/
@@ -50,3 +49,5 @@ desktop.ini
 *.tmp
 *.swp
 *.bak
+config.bat
+node_modules
